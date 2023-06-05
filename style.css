@@ -1,4 +1,9 @@
+body {
+    margin: 0px;
+}
+
 .heroPage {
     background-color: #1f2937;
     color: white;
+    
 }
