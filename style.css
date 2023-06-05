@@ -11,3 +11,8 @@ body {
     display: flex;
 }
 
+.hero_main_text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
