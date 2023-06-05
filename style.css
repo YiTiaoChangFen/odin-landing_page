@@ -7,7 +7,6 @@ body {
 
 .heroPage,.header{
     background-color: #1f2937;
-    color: white;
     display: flex;
 }
 
@@ -15,4 +14,15 @@ body {
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
+}
+
+.hero_secondary_text, .header_link {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.header_logo {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bold;
 }
