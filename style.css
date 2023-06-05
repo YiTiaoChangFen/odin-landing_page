@@ -1,9 +1,13 @@
 body {
+    height: 100vh;
     margin: 0px;
+    overflow: hidden;
+    font-family: 'Courier New', Courier, monospace;
 }
 
-.heroPage {
+.heroPage,.header{
     background-color: #1f2937;
     color: white;
-    
+    display: flex;
 }
+
