@@ -8,17 +8,20 @@ body {
 .heroPage,.header{
     background-color: #1f2937;
     display: flex;
+    flex-direction: row;
 }
 
 .hero_main_text {
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
+    justify-content: flex-start;
 }
 
 .hero_secondary_text, .header_link {
     font-size: 18px;
     color: #e5e7eb;
+    justify-content: flex-end;
 }
 
 .header_logo {
