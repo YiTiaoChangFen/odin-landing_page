@@ -66,3 +66,7 @@ li {
     word-spacing: -7px;
 
 }
+
+.heroPage .flex {
+    display: flex;
+}
