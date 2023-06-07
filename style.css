@@ -67,6 +67,26 @@ li {
 
 }
 
+.heroPage .container{
+    height: 500px;
+}
+
+.heroPage {
+    background-color: #1f2937;
+    height: 500px;
+}
+
 .heroPage .flex {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
 }
+
+.hero_text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 500px;
+}
+
