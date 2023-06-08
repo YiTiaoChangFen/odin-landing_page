@@ -75,6 +75,7 @@ button {
 
 }
 
+/* hero page css*/
 .heroPage .container{
     height: 600px;
 }
@@ -108,4 +109,26 @@ button {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+
+/* info page css*/
+.info_page{
+    height: 600;
+    border: 10px solid black;
+}
+
+.info_page img {
+    border-radius: 20px;
+    border: 3px solid #3882f6;
+    height: 175px;
+    width: 175px;
+}
+
+.info_page h1 {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+}
+
 
