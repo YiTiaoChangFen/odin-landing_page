@@ -112,9 +112,8 @@ button {
 
 
 /* info page css*/
-.info_page{
-    height: 600;
-    border: 10px solid black;
+.info_page, .info_page .container{
+    height: 400px;
 }
 
 .info_page img {
@@ -128,6 +127,15 @@ button {
     color: #1f2937;
     font-size: 36px;
     font-weight: 900;
+    text-align: center;
+}
+
+.info_page .flex {
+    display: flex;
+    align-items: center;
+}
+
+.info_page .info_chunk {
     text-align: center;
 }
 
