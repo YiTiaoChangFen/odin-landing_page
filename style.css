@@ -210,3 +210,17 @@ button {
     border-radius: 5px;
     border: 2px solid white;
 }
+
+/*copyright page css*/
+.copyright_page {
+    height: 100px;
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright_page p {
+    color: white;
+
+}
