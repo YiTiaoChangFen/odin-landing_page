@@ -147,6 +147,7 @@ button {
 
 .quote_page .container {
     height: 400px;
+    max-width: 1000px;
 }
 
 .quote_page .flex {
@@ -172,3 +173,21 @@ button {
     font-size: 30px;
 }
 
+
+/*action page css*/
+.action_page {
+    height: 300px;
+    padding: 100px;
+}
+
+.action_page .container {
+    height: 150;
+    background-color: #3882f6;
+}
+
+.action_page .container.flex {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
