@@ -139,4 +139,24 @@ button {
     text-align: center;
 }
 
+/*quote page css*/
+.quote_page {
+    height: 400px;
+    background-color: #e5e7eb;
+}
+
+.quote_page .container {
+    height: 400px;
+    border: 2px solid black;
+}
+
+.quote_page .flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center
+}
+
+.speaker {
+    align-self: flex-end;
+}
 
